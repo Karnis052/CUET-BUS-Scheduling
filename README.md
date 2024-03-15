@@ -2,13 +2,22 @@ It is a simple MERN stack project which handles CUET Scheduling. The project can
 Every scheduled bus contains the driver's name, helper name, trip type[student, Teacher, Office Staff], and trip time. 
 
 Clone the repo first 
-```git clone https://github.com/your-username/your-repository.git
+```
+git clone https://github.com/your-username/your-repository.git
 ```
 Move to the backend
-```cd backend```
+``` 
+cd backend
+```
 Run the server
-```npm run dev```
+```
+npm run dev
+```
 Move to the frontend
-```cd frontend```
+```
+cd frontend
+```
 Start the project
-```npm run dev```
+```
+npm run dev
+```
